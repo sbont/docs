@@ -1,7 +1,6 @@
 ---
 title: "Implementation"
 url: /howto/mobile/implementation/
-parent: "native-mobile"
 weight: 30
 description: Implement native mobile features in Mendix Studio Pro.
 tags: ["native", "mobile", "start", "quickstart"]

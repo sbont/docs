@@ -1,7 +1,6 @@
 ---
 title: "Build Native Apps"
 url: /howto/mobile/build-native-apps/
-parent: "distribution"
 weight: 10
 description: Tutorials for building native mobile apps.
 tags: ["mobile", "native", "react", "ios", "android"]

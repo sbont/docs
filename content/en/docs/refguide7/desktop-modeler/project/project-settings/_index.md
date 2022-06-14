@@ -1,7 +1,6 @@
 ---
 title: "Project Settings"
 url: /refguide7/project-settings/
-parent: "project"
 #menu_order:
 description: "Settings which apply to the project app as a whole."
 tags: ["project", "app", "configuration", "runtime", "desktop modeler", "languages", "certificate", "theme", "hashing", "hashing algorithm"]

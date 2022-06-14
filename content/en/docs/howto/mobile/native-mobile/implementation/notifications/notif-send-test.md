@@ -1,7 +1,6 @@
 ---
 title: "Send Your First Test Push Notification"
 url: /howto/mobile/notif-send-test/
-parent: "notifications"
 weight: 64
 description: Tutorial for testing your push notifications.
 tags: ["mobile", "native", "push", "local", "firebase"]

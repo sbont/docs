@@ -1,6 +1,5 @@
 ---
 title: "Content Security Policy"
-parent: "progressive-web-app"
 url: /refguide/progressive-web-app/csp/
 menu_order: 10
 tags: ["security", "headers"]
