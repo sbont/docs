@@ -58,6 +58,14 @@ This list gives an overview of all entities published as [OData resources](/refg
 
 This list gives an overview of all published attributes and associations.
 
+### 2.7 Microflows
+
+This list gives an overview of all microflows published as [OData actions](/refguide/published-odata-microflow/).
+
+### 2.8 Parameters
+
+This list gives an overview of the [parameters](/refguide/published-odata-microflow-parameters/) of the selected microflow.
+
 ## 3 Settings
 
 ### 3.1 Configuration
